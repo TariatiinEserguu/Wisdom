@@ -11,7 +11,8 @@
 ### 🚩 Flag
 
 ```text
-voidCTF{There_Are_No_Accidents}
+voidCTF{Yesterday_Is_History}
 ```
 
 > "The more you take, the less you have."
+> "History tells all"
